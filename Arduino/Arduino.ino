@@ -144,10 +144,7 @@ void printMessageOnScreen(String message, date startDate, date endDate){
   //print Message on Screen between dateInterval = endDate-startDate
 }
 
-bool talk(date onDate, time atTime){
-  //talk onDate and atTime
-  return true //if effectively talking;
-}
+
 
 
 
