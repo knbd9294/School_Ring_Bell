@@ -140,14 +140,6 @@ bool getWeeklyRingDate(){
   return true // if succesfully got it;
 }
 
-void printMessageOnScreen(String message, date startDate, date endDate){
-  //print Message on Screen between dateInterval = endDate-startDate
-}
-
-
-
-
-
 bool setPeriodIntervalRing(time interval){
 }
 
