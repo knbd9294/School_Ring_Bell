@@ -149,10 +149,7 @@ bool talk(date onDate, time atTime){
   return true //if effectively talking;
 }
 
-bool talk(date onDate, time atTime, String message){
-  //talk onDate and atTime => message
-  return true //if effectively talking;
-}
+
 
 bool setPeriodIntervalRing(time interval){
 }
